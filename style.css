@@ -1,0 +1,46 @@
+body{
+    background-color: #EEEEEE;
+}
+
+#main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#img-div{
+background-color: #fff;
+width: 98%;;
+
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+
+#image{
+    width:80%;
+    max-width: max-content;
+}
+#img-caption{
+    margin: 10px;
+}
+
+#tribute-info{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width:50%;
+}
+
+ul, .cit{
+
+    text-align: start;
+}
+
+li{
+    margin: 1.5em;
+}
+
